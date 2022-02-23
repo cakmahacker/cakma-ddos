@@ -1,7 +1,7 @@
 clear
 pip install pyfiglet
 clear
-figlet Python Kurulumu
+pyfiglet Python Kurulumu
 sleep 3
 pkg install python3
 clear
