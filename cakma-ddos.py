@@ -5,9 +5,9 @@ import colorama
 from colorama import Fore, Back, Style
 os.system ('python -m pip install colorama')
 os.system ('clear')
-os.system ('pkg install figlet')
+os.system ('pip install pyfiglet')
 os.system('clear')
-os.system ('figlet CAKMA-DDOS')
+os.system ('pyfiglet CAKMA-DDOS')
 
 print(Fore.GREEN)
 print ('     1- 10.000 bayt [Başlangıç]')
