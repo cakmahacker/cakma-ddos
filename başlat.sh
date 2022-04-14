@@ -1,10 +1,10 @@
 clear
+printf "\e[30m\e[40m[\e[40m\e[32m...\e[30m\e[40m]\e[40m\e[31m Pyfiglet\e[37m paket kurulumu...\n\n"
+sleep 3
 pip install pyfiglet
-clear
-pyfiglet Python Kurulumu
+printf "\e[30m\e[40m[\e[40m\e[32m...\e[30m\e[40m]\e[40m\e[31m Python\e[37m paket kurulumu...\n\n"
 sleep 3
 pkg install python3
-clear
 pyfiglet Yonlendirilir...
 sleep 3
 python3 cakma-ddos.py
